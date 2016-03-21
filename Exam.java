@@ -9,7 +9,7 @@ public class Exam {
 	public static void main(String[] args) throws Exception {
 
 		Vector<Exam> exams = new Vector<Exam>();
-		exams.add(MakeFishExam.justDoIt());
+		exams.add(MakeKiranExam.justDoIt());
 		// exams.add(MakeCameronExam.justDoIt());
 		/* Add more exams here using the two lines above as a template. */
 
